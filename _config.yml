@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Teddy's Blog
+description: "Just started using gh-pages"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "teddy"
+  email: "somewhere@noorg.org"
+  url: "https://teddyscx.github.io"
 
 baseurl: /
 
